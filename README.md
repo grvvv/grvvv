@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a recent graduate with a Bachelor's degree in
 
 ## About Me
 
-- 🎓 Graduated in 2024 with a Bachelor's degree in Engineering.
+- 🎓 2024 Graduate with a Bachelor's degree in Engineering.
 - 💻 Experienced in Python and JavaScript.
 - 🌐 Pursuing a career as a full-stack developer.
 
@@ -19,8 +19,7 @@ Welcome to my GitHub profile! I am a recent graduate with a Bachelor's degree in
 
 Here are some projects I've worked on:
 
-- [Project 1](link-to-project1): Brief description of the project.
-- [Project 2](link-to-project2): Brief description of the project.
+- [NewsVista](https://github.com/grvvv/News-App) : The NewsVista is a web application built with Node.js, Express, and Axios. It allows users to select a country and news category to fetch and display the latest news articles from the News API.
 
 ## Connect with Me
 
