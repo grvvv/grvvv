@@ -24,7 +24,7 @@ Here are some projects I've worked on:
 ## Connect with Me
 
 - 📧 Email: gauravchindarkar45@gmail.com
-- 💼 LinkedIn: [Grv](www.linkedin.com/in/grv-chindarkar)
+- 💼 LinkedIn: [Grv](https://www.linkedin.com/in/grv-chindarkar/)
 - 🌐 Portfolio: 
 
 Feel free to explore my repositories and connect with me. Let's code together! 🚀
