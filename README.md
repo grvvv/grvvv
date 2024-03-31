@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a recent graduate with a Bachelor's degree in
 
 Here are some projects I've worked on:
 
-- [NewsVista](https://github.com/grvvv/News-App) : The NewsVista is a web application built with Node.js, Express, and Axios. It allows users to select a country and news category to fetch and display the latest news articles from the News API.
+- [NewsVista](https://github.com/grvvv/News-App): The NewsVista is a web application built with Node.js, Express, and Axios. It allows users to select a country and news category to fetch and display the latest news articles from the News API.
 
 ## Connect with Me
 
