@@ -1,6 +1,6 @@
 # Hello, I'm Gaurav Chindarkar 👋
 
-Welcome to my GitHub profile! I am a recent graduate with a Bachelor's degree in Engineering, specializing in Python and JavaScript. I am passionate about web development and aspire to become a full-stack developer. Here, you'll find a collection of projects and contributions that showcase my skills and journey in the world of coding.
+Welcome to my GitHub profile! I recently graduated with a Bachelor's in Electronics and telecom—engineering, specializing in Python and JavaScript. I am passionate about web development and aspire to become a full-stack developer. Here, you'll find a collection of projects and contributions that showcase my skills and journey in the world of coding.
 
 ## About Me
 
@@ -23,7 +23,7 @@ Here are some projects I've worked on:
 
 ## Connect with Me
 
-- 📧 Email: gauravchindarkar45@gmail.com
+- 📧 Email: grvchindarkar@gmail.com
 - 💼 LinkedIn: [Grv](https://www.linkedin.com/in/grv-chindarkar/)
 - 🌐 Portfolio: 
 
