@@ -4,22 +4,7 @@ Welcome to my GitHub profile! I recently graduated with a Bachelor's in Electron
 
 ## About Me
 
-- 🎓 2024 Graduate with a Bachelor's degree in Engineering.
-- 💻 Experienced in Python and JavaScript.
-- 🌐 Pursuing a career as a full-stack developer.
-
-## Skills
-
-- **Languages:** Python, JavaScript
-- **Web Development:** HTML, CSS, Node.js, Express.js
-- **Database:** PostgreSQL, MongoDB
-- **Tools:** Git, GitHub
-
-## Projects
-
-Here are some projects I've worked on:
-
-- [NewsVista](https://github.com/grvvv/News-App): The NewsVista is a web application built with Node.js, Express, and Axios. It allows users to select a country and news category to fetch and display the latest news articles from the News API.
+- Average Hooman
 
 ## Connect with Me
 
